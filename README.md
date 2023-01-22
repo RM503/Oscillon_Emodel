@@ -1,1 +1,1 @@
-# Oscillon_Emodel
+# Oscillon formation in $\alpha$-attractor E-model
